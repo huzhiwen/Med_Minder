@@ -1,0 +1,443 @@
+ResetPlayersIntent clear
+ResetPlayersIntent clear a list
+ResetPlayersIntent clear list
+ResetPlayersIntent clear counts
+ResetPlayersIntent clear numbers
+ResetPlayersIntent clear number of times
+ResetPlayersIntent clear last list
+ResetPlayersIntent clear last prescription
+ResetPlayersIntent clear last medicines
+ResetPlayersIntent clear last counts
+ResetPlayersIntent clear last numbers
+ResetPlayersIntent clear last number of times
+ResetPlayersIntent clear my medicines
+ResetPlayersIntent clear my list
+ResetPlayersIntent clear my prescription
+ResetPlayersIntent clear my counts
+ResetPlayersIntent clear my numbers
+ResetPlayersIntent clear my number of times
+ResetPlayersIntent clear old list
+ResetPlayersIntent clear old prescription
+ResetPlayersIntent clear old medicines
+ResetPlayersIntent clear old counts
+ResetPlayersIntent clear old numbers
+ResetPlayersIntent clear old number of times
+ResetPlayersIntent clear our list
+ResetPlayersIntent clear our prescription
+ResetPlayersIntent clear our medicines
+ResetPlayersIntent clear our counts
+ResetPlayersIntent clear our numbers
+ResetPlayersIntent clear our number of times
+ResetPlayersIntent clear prescription
+ResetPlayersIntent clear past list
+ResetPlayersIntent clear past prescription
+ResetPlayersIntent clear past medicines
+ResetPlayersIntent clear past counts
+ResetPlayersIntent clear past numbers
+ResetPlayersIntent clear past number of times
+ResetPlayersIntent clear medicines
+ResetPlayersIntent clear that list
+ResetPlayersIntent clear that number of times
+ResetPlayersIntent clear the list
+ResetPlayersIntent clear the prescription
+ResetPlayersIntent clear the medicines
+ResetPlayersIntent clear the counts
+ResetPlayersIntent clear the numbers
+ResetPlayersIntent clear the number of times
+ResetPlayersIntent clear those prescription
+ResetPlayersIntent clear those medicines
+ResetPlayersIntent clear those counts
+ResetPlayersIntent clear those numbers
+ResetPlayersIntent delete
+ResetPlayersIntent delete a list
+ResetPlayersIntent delete list
+ResetPlayersIntent delete counts
+ResetPlayersIntent delete numbers
+ResetPlayersIntent delete number of times
+ResetPlayersIntent delete last list
+ResetPlayersIntent delete last prescription
+ResetPlayersIntent delete last medicines
+ResetPlayersIntent delete last counts
+ResetPlayersIntent delete last numbers
+ResetPlayersIntent delete last number of times
+ResetPlayersIntent delete my medicines
+ResetPlayersIntent delete my list
+ResetPlayersIntent delete my prescription
+ResetPlayersIntent delete my counts
+ResetPlayersIntent delete my numbers
+ResetPlayersIntent delete my number of times
+ResetPlayersIntent delete old list
+ResetPlayersIntent delete old prescription
+ResetPlayersIntent delete old medicines
+ResetPlayersIntent delete old counts
+ResetPlayersIntent delete old numbers
+ResetPlayersIntent delete old number of times
+ResetPlayersIntent delete our list
+ResetPlayersIntent delete our prescription
+ResetPlayersIntent delete our medicines
+ResetPlayersIntent delete our counts
+ResetPlayersIntent delete our numbers
+ResetPlayersIntent delete our number of times
+ResetPlayersIntent delete prescription
+ResetPlayersIntent delete past list
+ResetPlayersIntent delete past prescription
+ResetPlayersIntent delete past medicines
+ResetPlayersIntent delete past counts
+ResetPlayersIntent delete past numbers
+ResetPlayersIntent delete past number of times
+ResetPlayersIntent delete medicines
+ResetPlayersIntent delete that list
+ResetPlayersIntent delete that number of times
+ResetPlayersIntent delete the list
+ResetPlayersIntent delete the prescription
+ResetPlayersIntent delete the medicines
+ResetPlayersIntent delete the counts
+ResetPlayersIntent delete the numbers
+ResetPlayersIntent delete the number of times
+ResetPlayersIntent delete those prescription
+ResetPlayersIntent delete those medicines
+ResetPlayersIntent delete those counts
+ResetPlayersIntent delete those numbers
+ResetPlayersIntent erase
+ResetPlayersIntent erase a list
+ResetPlayersIntent erase list
+ResetPlayersIntent erase counts
+ResetPlayersIntent erase numbers
+ResetPlayersIntent erase number of times
+ResetPlayersIntent erase last list
+ResetPlayersIntent erase last prescription
+ResetPlayersIntent erase last medicines
+ResetPlayersIntent erase last counts
+ResetPlayersIntent erase last numbers
+ResetPlayersIntent erase last number of times
+ResetPlayersIntent erase my medicines
+ResetPlayersIntent erase my list
+ResetPlayersIntent erase my prescription
+ResetPlayersIntent erase my counts
+ResetPlayersIntent erase my numbers
+ResetPlayersIntent erase my number of times
+ResetPlayersIntent erase old list
+ResetPlayersIntent erase old prescription
+ResetPlayersIntent erase old medicines
+ResetPlayersIntent erase old counts
+ResetPlayersIntent erase old numbers
+ResetPlayersIntent erase old number of times
+ResetPlayersIntent erase our list
+ResetPlayersIntent erase our prescription
+ResetPlayersIntent erase our medicines
+ResetPlayersIntent erase our counts
+ResetPlayersIntent erase our numbers
+ResetPlayersIntent erase our number of times
+ResetPlayersIntent erase prescription
+ResetPlayersIntent erase past list
+ResetPlayersIntent erase past prescription
+ResetPlayersIntent erase past medicines
+ResetPlayersIntent erase past counts
+ResetPlayersIntent erase past numbers
+ResetPlayersIntent erase past number of times
+ResetPlayersIntent erase medicines
+ResetPlayersIntent erase that list
+ResetPlayersIntent erase that number of times
+ResetPlayersIntent erase the list
+ResetPlayersIntent erase the prescription
+ResetPlayersIntent erase the medicines
+ResetPlayersIntent erase the counts
+ResetPlayersIntent erase the numbers
+ResetPlayersIntent erase the number of times
+ResetPlayersIntent erase those prescription
+ResetPlayersIntent erase those medicines
+ResetPlayersIntent erase those counts
+ResetPlayersIntent erase those numbers
+ResetPlayersIntent forget
+ResetPlayersIntent forget a list
+ResetPlayersIntent forget list
+ResetPlayersIntent forget counts
+ResetPlayersIntent forget numbers
+ResetPlayersIntent forget number of times
+ResetPlayersIntent forget last list
+ResetPlayersIntent forget last prescription
+ResetPlayersIntent forget last medicines
+ResetPlayersIntent forget last counts
+ResetPlayersIntent forget last numbers
+ResetPlayersIntent forget last number of times
+ResetPlayersIntent forget my medicines
+ResetPlayersIntent forget my list
+ResetPlayersIntent forget my prescription
+ResetPlayersIntent forget my counts
+ResetPlayersIntent forget my numbers
+ResetPlayersIntent forget my number of times
+ResetPlayersIntent forget old list
+ResetPlayersIntent forget old prescription
+ResetPlayersIntent forget old medicines
+ResetPlayersIntent forget old counts
+ResetPlayersIntent forget old numbers
+ResetPlayersIntent forget old number of times
+ResetPlayersIntent forget our list
+ResetPlayersIntent forget our prescription
+ResetPlayersIntent forget our medicines
+ResetPlayersIntent forget our counts
+ResetPlayersIntent forget our numbers
+ResetPlayersIntent forget our number of times
+ResetPlayersIntent forget prescription
+ResetPlayersIntent forget past list
+ResetPlayersIntent forget past prescription
+ResetPlayersIntent forget past medicines
+ResetPlayersIntent forget past counts
+ResetPlayersIntent forget past numbers
+ResetPlayersIntent forget past number of times
+ResetPlayersIntent forget medicines
+ResetPlayersIntent forget that list
+ResetPlayersIntent forget that number of times
+ResetPlayersIntent forget the list
+ResetPlayersIntent forget the prescription
+ResetPlayersIntent forget the medicines
+ResetPlayersIntent forget the counts
+ResetPlayersIntent forget the numbers
+ResetPlayersIntent forget the number of times
+ResetPlayersIntent forget those prescription
+ResetPlayersIntent forget those medicines
+ResetPlayersIntent forget those counts
+ResetPlayersIntent forget those numbers
+ResetPlayersIntent remove
+ResetPlayersIntent remove a list
+ResetPlayersIntent remove list
+ResetPlayersIntent remove counts
+ResetPlayersIntent remove numbers
+ResetPlayersIntent remove number of times
+ResetPlayersIntent remove last list
+ResetPlayersIntent remove last prescription
+ResetPlayersIntent remove last medicines
+ResetPlayersIntent remove last counts
+ResetPlayersIntent remove last numbers
+ResetPlayersIntent remove last number of times
+ResetPlayersIntent remove my medicines
+ResetPlayersIntent remove my list
+ResetPlayersIntent remove my prescription
+ResetPlayersIntent remove my counts
+ResetPlayersIntent remove my numbers
+ResetPlayersIntent remove my number of times
+ResetPlayersIntent remove old list
+ResetPlayersIntent remove old prescription
+ResetPlayersIntent remove old medicines
+ResetPlayersIntent remove old counts
+ResetPlayersIntent remove old numbers
+ResetPlayersIntent remove old number of times
+ResetPlayersIntent remove our list
+ResetPlayersIntent remove our prescription
+ResetPlayersIntent remove our medicines
+ResetPlayersIntent remove our counts
+ResetPlayersIntent remove our numbers
+ResetPlayersIntent remove our number of times
+ResetPlayersIntent remove prescription
+ResetPlayersIntent remove past list
+ResetPlayersIntent remove past prescription
+ResetPlayersIntent remove past medicines
+ResetPlayersIntent remove past counts
+ResetPlayersIntent remove past numbers
+ResetPlayersIntent remove past number of times
+ResetPlayersIntent remove medicines
+ResetPlayersIntent remove that list
+ResetPlayersIntent remove that number of times
+ResetPlayersIntent remove the list
+ResetPlayersIntent remove the prescription
+ResetPlayersIntent remove the medicines
+ResetPlayersIntent remove the counts
+ResetPlayersIntent remove the numbers
+ResetPlayersIntent remove the number of times
+ResetPlayersIntent remove those prescription
+ResetPlayersIntent remove those medicines
+ResetPlayersIntent remove those counts
+ResetPlayersIntent remove those numbers
+ResetPlayersIntent reset
+ResetPlayersIntent reset a list
+ResetPlayersIntent reset list
+ResetPlayersIntent reset counts
+ResetPlayersIntent reset numbers
+ResetPlayersIntent reset number of times
+ResetPlayersIntent reset last list
+ResetPlayersIntent reset last prescription
+ResetPlayersIntent reset last medicines
+ResetPlayersIntent reset last counts
+ResetPlayersIntent reset last numbers
+ResetPlayersIntent reset last number of times
+ResetPlayersIntent reset my medicines
+ResetPlayersIntent reset my list
+ResetPlayersIntent reset my prescription
+ResetPlayersIntent reset my counts
+ResetPlayersIntent reset my numbers
+ResetPlayersIntent reset my number of times
+ResetPlayersIntent reset old list
+ResetPlayersIntent reset old prescription
+ResetPlayersIntent reset old medicines
+ResetPlayersIntent reset old counts
+ResetPlayersIntent reset old numbers
+ResetPlayersIntent reset old number of times
+ResetPlayersIntent reset our list
+ResetPlayersIntent reset our prescription
+ResetPlayersIntent reset our medicines
+ResetPlayersIntent reset our counts
+ResetPlayersIntent reset our numbers
+ResetPlayersIntent reset our number of times
+ResetPlayersIntent reset prescription
+ResetPlayersIntent reset past list
+ResetPlayersIntent reset past prescription
+ResetPlayersIntent reset past medicines
+ResetPlayersIntent reset past counts
+ResetPlayersIntent reset past numbers
+ResetPlayersIntent reset past number of times
+ResetPlayersIntent reset medicines
+ResetPlayersIntent reset that list
+ResetPlayersIntent reset that number of times
+ResetPlayersIntent reset the list
+ResetPlayersIntent reset the prescription
+ResetPlayersIntent reset the medicines
+ResetPlayersIntent reset the counts
+ResetPlayersIntent reset the numbers
+ResetPlayersIntent reset the number of times
+ResetPlayersIntent reset those prescription
+ResetPlayersIntent reset those medicines
+ResetPlayersIntent reset those counts
+ResetPlayersIntent reset those numbers
+ResetPlayersIntent wipe
+ResetPlayersIntent wipe a list
+ResetPlayersIntent wipe list
+ResetPlayersIntent wipe counts
+ResetPlayersIntent wipe numbers
+ResetPlayersIntent wipe number of times
+ResetPlayersIntent wipe last list
+ResetPlayersIntent wipe last prescription
+ResetPlayersIntent wipe last medicines
+ResetPlayersIntent wipe last counts
+ResetPlayersIntent wipe last numbers
+ResetPlayersIntent wipe last number of times
+ResetPlayersIntent wipe my medicines
+ResetPlayersIntent wipe my list
+ResetPlayersIntent wipe my prescription
+ResetPlayersIntent wipe my counts
+ResetPlayersIntent wipe my numbers
+ResetPlayersIntent wipe my number of times
+ResetPlayersIntent wipe old list
+ResetPlayersIntent wipe old prescription
+ResetPlayersIntent wipe old medicines
+ResetPlayersIntent wipe old counts
+ResetPlayersIntent wipe old numbers
+ResetPlayersIntent wipe old number of times
+ResetPlayersIntent wipe our list
+ResetPlayersIntent wipe our prescription
+ResetPlayersIntent wipe our medicines
+ResetPlayersIntent wipe our counts
+ResetPlayersIntent wipe our numbers
+ResetPlayersIntent wipe our number of times
+ResetPlayersIntent wipe prescription
+ResetPlayersIntent wipe past list
+ResetPlayersIntent wipe past prescription
+ResetPlayersIntent wipe past medicines
+ResetPlayersIntent wipe past counts
+ResetPlayersIntent wipe past numbers
+ResetPlayersIntent wipe past number of times
+ResetPlayersIntent wipe medicines
+ResetPlayersIntent wipe that list
+ResetPlayersIntent wipe that number of times
+ResetPlayersIntent wipe the list
+ResetPlayersIntent wipe the prescription
+ResetPlayersIntent wipe the medicines
+ResetPlayersIntent wipe the counts
+ResetPlayersIntent wipe the numbers
+ResetPlayersIntent wipe the number of times
+ResetPlayersIntent wipe those prescription
+ResetPlayersIntent wipe those medicines
+ResetPlayersIntent wipe those counts
+ResetPlayersIntent wipe those numbers
+
+NewGameIntent begin a list
+NewGameIntent begin a new list
+NewGameIntent begin list
+NewGameIntent begin new list
+NewGameIntent create a list
+NewGameIntent create a new list
+NewGameIntent create list
+NewGameIntent create new list
+NewGameIntent do a list
+NewGameIntent do a new list
+NewGameIntent do list
+NewGameIntent do new list
+NewGameIntent make a list
+NewGameIntent make a new list
+NewGameIntent make list
+NewGameIntent make new list
+NewGameIntent new list
+NewGameIntent open a list
+NewGameIntent open a new list
+NewGameIntent open list
+NewGameIntent open new list
+NewGameIntent restart
+NewGameIntent restart list
+NewGameIntent set up a list
+NewGameIntent set up a new list
+NewGameIntent set up list
+NewGameIntent set up new list
+NewGameIntent begin number of times
+NewGameIntent create number of times
+NewGameIntent do number of times
+NewGameIntent make number of times
+NewGameIntent open number of times
+NewGameIntent set up number of times
+NewGameIntent start a list
+
+TellScoresIntent first
+TellScoresIntent first place
+TellScoresIntent give me the numbers
+TellScoresIntent give me the number of timesboard
+TellScoresIntent give us who is in the lead
+TellScoresIntent how do our number of timess look
+TellScoresIntent last
+TellScoresIntent last place
+TellScoresIntent leaderboard
+TellScoresIntent list current counts
+TellScoresIntent loser
+TellScoresIntent numbers
+TellScoresIntent counts
+TellScoresIntent rankings
+TellScoresIntent read the standing
+TellScoresIntent recite the counts
+TellScoresIntent say the numbers
+TellScoresIntent share our current numbers
+TellScoresIntent standing
+TellScoresIntent state our standing
+TellScoresIntent state the winner
+TellScoresIntent tell me current number of times
+TellScoresIntent tell me the current number of times
+TellScoresIntent tell me the number of times
+TellScoresIntent tell us current number of times
+TellScoresIntent tell us the current number of times
+TellScoresIntent tell us the number of times
+TellScoresIntent tell us who's losing
+TellScoresIntent tell us who's winning
+TellScoresIntent the current number of times
+TellScoresIntent the ranking
+TellScoresIntent the number of times
+TellScoresIntent view counts
+TellScoresIntent what is the number of times
+TellScoresIntent what counts does everyone have
+TellScoresIntent what number of timess do everyone have
+TellScoresIntent what's the number of times
+TellScoresIntent which one of us is in first place
+TellScoresIntent which one of us is winning
+TellScoresIntent who is leading
+TellScoresIntent who's got the most counts
+TellScoresIntent what's my first medicine today
+
+AddPlayerIntent add medicine {MedicineName}
+AddPlayerIntent add {MedicineName}
+AddPlayerIntent add {MedicineName} to the list
+AddPlayerIntent add medicine {MedicineName} to the list
+AddPlayerIntent add {MedicineName} to the list
+AddPlayerIntent {MedicineName}
+
+AddScoreIntent set {MedicineName} {NumberOfTimes}
+AddScoreIntent give {MedicineName} {NumberOfTimes} 
+AddScoreIntent {NumberOfTimes} more for {MedicineName}
+AddScoreIntent add {NumberOfTimes} for {MedicineName}
+AddScoreIntent give {MedicineName} {NumberOfTimes} more times
+AddScoreIntent increase {NumberOfTimes} more times for {MedicineName}
+AddScoreIntent increase {NumberOfTimes} number of times for {MedicineName}

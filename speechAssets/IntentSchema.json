@@ -1,0 +1,56 @@
+{
+  "intents": [
+
+    {
+      "intent": "AddMedicineIntent",
+      "slots": [
+        {
+          "name": "MedicineName",
+          "type": "LIST_OF_MEDICINE_NAMES"
+        }
+      ]
+    },
+
+    {
+      "intent": "AddCountIntent",
+      "slots": [
+        {
+          "name": "MedicineName",
+          "type": "LIST_OF_MEDICINE_NAMES"
+        },
+        {
+          "name": "NumberOfTimes",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name":"upperbound",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+
+    {
+      "intent": "CleanListIntent"
+    },
+
+    {
+      "intent": "NewDayIntent"
+    },
+
+    {
+      "intent": "ReportTimesIntent"
+    },
+
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
